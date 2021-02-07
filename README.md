@@ -1,4 +1,4 @@
-![Header](header-dark.png)
+![Header](https://pbs.twimg.com/profile_banners/966419361887064064/1612716919/1500x500)
 
 <!--
 **crxssed7/crxssed7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
