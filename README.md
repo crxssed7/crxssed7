@@ -1,4 +1,4 @@
-### Hi there 👋
+![Header](header-dark.png)
 
 <!--
 **crxssed7/crxssed7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
