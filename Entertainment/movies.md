@@ -28,6 +28,7 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All movi
 |Spider-Man|Fantasy, Action|
 |Spider-Man 2|Action, Adventure, Fantasy|
 |Spider-Man 3|Fantasy, Action, Adventure|
+|Spider-Man: Into the Spiderverse|Action, Adventure, Animation, Science Fiction, Comedy|
 |Black Panther|Action, Adventure, Fantasy, Science Fiction|
 |The Avengers|Science Fiction, Action, Adventure|
 |Avengers: Age of Ultron|Action, Adventure, Science Fiction|
@@ -37,3 +38,9 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All movi
 |Regular Show: The Movie|Animation, Comedy, Science Fiction, TV Movie|
 |Wreck-it Ralph|Family, Animation, Comedy, Adventure|
 |Ralph Breaks the Internet|Family, Animation, Comedy, Adventure|
+|Joker|Crime, Thriller, Drama|
+|Sonic the Hedgehog|Action, Science Fiction, Comedy, Family|
+|Transformers|Adventure, Science Fiction, Action|
+|Transformers: Revenge of the Fallen|Science Fiction, Action, Adventure|
+|Transformers: Dark of the Moon|Action, Science Fiction, Adventure|
+|Bumblebee|Action, Adventure, Science Fiction|
