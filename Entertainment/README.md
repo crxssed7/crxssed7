@@ -27,4 +27,4 @@ Below is software that you can find to enhance your entertainment experience. It
 - [Jellyfin Apps](https://jellyfin.org/downloads/): 👑 Jellyfin provides a range of free software to play your media.
 - [Plex Apps](https://www.plex.tv/en-gb/media-server-downloads/#plex-app): Same as Jellyfin, but many of them are not free.
 - [Ubooquity Webapp](https://vaemendis.net/ubooquity/): Ubooquity has it's own webapp built in to the server software, same with Jellyfin and Plex.
-- [Kuboo](https://play.google.com/store/apps/details?id=com.sethchhim.kuboo&hl=en_GB&gl=US): Reader for Ubooquity, available for android.
+- [Kuboo](https://play.google.com/store/apps/details?id=com.sethchhim.kuboo&hl=en_GB&gl=US): 👑 Reader for Ubooquity, available for android.
