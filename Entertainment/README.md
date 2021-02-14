@@ -18,13 +18,13 @@ Below is software that you can find to enhance your entertainment experience. It
 ## Media players and servers
 **Servers**
 
-- [Jellyfin](): 👑 Server software that allows you to have all of your downloaded media (inc tv shows, movies, books, comics) available in one place, anywhere you go.
-- [Plex](): Very similar to Jellyfin, however its all managed by central servers owned by Plex Inc, which I'm not a fan of. Also Jellyfin has more customizability, but Plex is more stable. 
-- [Ubooquity](): 👑 Server software similar to that of Plex and Jellyfin, but just for books and comics. I prefer to split my media in two, Jellyfin for shows and movies, and Ubooquity for comics and books.
+- [Jellyfin](https://jellyfin.org): 👑 Server software that allows you to have all of your downloaded media (inc tv shows, movies, books, comics) available in one place, anywhere you go.
+- [Plex](https://www.plex.tv/en-gb/): Very similar to Jellyfin, however its all managed by central servers owned by Plex Inc, which I'm not a fan of. Also Jellyfin has more customizability, but Plex is more stable. 
+- [Ubooquity](https://vaemendis.net/ubooquity/): 👑 Server software similar to that of Plex and Jellyfin, but just for books and comics. I prefer to split my media in two, Jellyfin for shows and movies, and Ubooquity for comics and books.
 
 **Players**
 
-- [Jellyfin Apps](): 👑 Jellyfin provides a range of free software to play your media.
-- [Plex Apps](): Same as Jellyfin, but many of them are not free.
-- [Ubooquity Webapp](): Ubooquity has it's own webapp built in to the server software, same with Jellyfin and Plex.
-- [Kuboo](): Reader for Ubooquity, available for android.
+- [Jellyfin Apps](https://jellyfin.org/downloads/): 👑 Jellyfin provides a range of free software to play your media.
+- [Plex Apps](https://www.plex.tv/en-gb/media-server-downloads/#plex-app): Same as Jellyfin, but many of them are not free.
+- [Ubooquity Webapp](https://vaemendis.net/ubooquity/): Ubooquity has it's own webapp built in to the server software, same with Jellyfin and Plex.
+- [Kuboo](https://play.google.com/store/apps/details?id=com.sethchhim.kuboo&hl=en_GB&gl=US): Reader for Ubooquity, available for android.
