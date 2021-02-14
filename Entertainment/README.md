@@ -9,5 +9,6 @@ This section of my repo includes
 ## Entertainment "trackers"
 **TV shows and movies**
 
-- [TelePeeps](): Best tracker of course (not because it was developed by me 😂)
-- [TV Time](): Good tracker, mainly available on android, and has a webapp
+- [TelePeeps](https://kitric.github.io/projects/telepeeps.html): Best tracker of course (not because it was developed by me 😂)
+- [TV Time](https://www.tvtime.com): Good tracker, mainly available on android, and has a webapp. Plus has a social media aspect to it with reviews and comments on each movie/show from different users.
+- [Trakt.tv](https://trakt.tv): Very good tracker, best used when integrated with your media players such as Plex (premium) and Jellyfin (free).
