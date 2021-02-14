@@ -3,31 +3,6 @@ TV Shows
 
 Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All shows will have their genres and network listed too.
 
-- Regular Show 
-- Gravity Falls
-- Avatar: The Last Airbender
-- The Legend of Korra
-- Adventure Time
-- Over the Garden Wall
-- Futurama
-- Sonic Underground
-- Sonic X
-- The Transformers
-- Kipo and the Age of Wonderbeasts
-- Solar Opposites
-- Disenchantment
-- Rick and Morty
-- Close Enough
-- Transformers: War for Cybertron
-- Central Park
-- Infinity Train
-- The Owl House
-- Satina
-- Adventure Time: Distant Lands
-- Amphibia
-- Bob's Burgers
-- WandaVision
-
 |Name|Network|Genres|
 |---|---|---|
 |Regular Show|Cartoon Network|Action, Adventure, Animation, Comedy|
@@ -55,3 +30,8 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |WandaVision|Disney+|Action, Adventure, Comedy, Drama, Fantasy, Science Fiction|
 |The Mandalorian|Disney+|Action, Adventure, Science Fiction|
 |Stranger Things|Netflix|Adventure, Drama, Fantasy, Horror, Suspense|
+|Star Wars: The Clone Wars|Cartoon Network|Action, Adventure, Animation, Fantasy, Science Fiction|
+|The Office (US)|NBC|Comedy|
+|The Inbetweeners|E4|Comedy|
+|Friday Night Dinner|Channel 4|Comedy|
+|Brooklyn Nine-Nine|NBC|Action, Comedy, Crime|
