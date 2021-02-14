@@ -33,3 +33,5 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All movi
 |Avengers: Age of Ultron|Action, Adventure, Science Fiction|
 |Avengers: Infinity War|Adventure, Action, Science Fiction|
 |Avengers: Endgame|Adventure, Science Fiction, Action|
+|The Transformers: The Movie|Animation, Science Fiction, Action, Adventure, Family|
+|Regular Show: The Movie|Animation, Comedy, Science Fiction, TV Movie|
