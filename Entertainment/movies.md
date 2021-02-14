@@ -35,3 +35,5 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All movi
 |Avengers: Endgame|Adventure, Science Fiction, Action|
 |The Transformers: The Movie|Animation, Science Fiction, Action, Adventure, Family|
 |Regular Show: The Movie|Animation, Comedy, Science Fiction, TV Movie|
+|Wreck-it Ralph|Family, Animation, Comedy, Adventure|
+|Ralph Breaks the Internet|Family, Animation, Comedy, Adventure|
