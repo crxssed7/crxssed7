@@ -35,3 +35,11 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |The Inbetweeners|E4|Comedy|
 |Friday Night Dinner|Channel 4|Comedy|
 |Brooklyn Nine-Nine|NBC|Action, Comedy, Crime|
+|The Grand Tour|Amazon Prime|Comedy, Talk Show|
+|Plebs|ITV2|Comedy|
+|Man Like Mobeen|BBC Three|Comedy|
+|Mr. Bean|ITV|Comedy|
+|The Boys|Amazon Prime|Action, Comedy, Crime|
+|High Score (2020)|Netflix|Documentary, Mini-Series|
+|The Goldbergs|ABC|Comedy|
+|Hot Ones|YouTube|Food, Game Show, Talk Show|
