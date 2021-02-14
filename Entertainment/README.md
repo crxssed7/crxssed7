@@ -3,8 +3,9 @@ Entertainment
 
 This section of my repo includes
 
-- [TV shows](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/tv-shows.md) that I recommend
-- [Movies](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/movies.md) that I recommend
+- [TV shows](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/tv-shows.md)
+- [Movies](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/movies.md)
+- [Books](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/books.md)
 
 Below is software that you can find to enhance your entertainment experience. Items marked as 👑 are recommended by me.
 
