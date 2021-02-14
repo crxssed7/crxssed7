@@ -2,7 +2,7 @@ Comics
 ===================
 
 Below is a list of comics that I recommend. Use CTRL+F to get around. All comics will have their publishers listed too listed too. <br>
-Many of these comics include there "sub events", for example, Venom (Donny Cates) leads into the Absolute Carnage event and all of its sub-issues.
+Many of these comics include there "sub events", for example, Venom (2018 - present) leads into the Absolute Carnage event and all of its sub-issues.
 
 |Name|Publisher|
 |---|---|
