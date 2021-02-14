@@ -1,7 +1,7 @@
 Movies
 ===================
 
-Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All shows will have their genres listed too.
+Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All movies will have their genres listed too.
 
 |Name|Genres|
 |---|---|
