@@ -10,7 +10,7 @@ This section of my repo includes
 
 Below is software that you can find to enhance your entertainment experience. Items marked as 👑 are recommended by me.
 
-## Entertainment "trackers"
+## Trackers
 **TV shows and movies**
 
 - [TelePeeps](https://kitric.github.io/projects/telepeeps.html): 👑 Best tracker of course (not because it was developed by me 😂)
