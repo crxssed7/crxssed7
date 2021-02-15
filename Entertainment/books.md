@@ -24,3 +24,4 @@ Below is a list of books that I recommend. Use CTRL+F to get around. All books w
 |Assassins Creed Collection||Oliver Bowden||Young Adult|
 |Divergent|Divergent (1)|Veronica Roth|Young Adult|
 |Insurgent|Divergent (2)|Veronica Roth|Young Adult|
+|Allegiant|Divergent (3)|Veronica Roth|Young Adult|
