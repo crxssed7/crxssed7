@@ -22,6 +22,6 @@ Below is a list of books that I recommend. Use CTRL+F to get around. All books w
 |Armada - A Novel||Ernest Cline|Crown Publishing|Science Fiction|
 |I am the Messenger||Markus Zusak|Alfred A. Knopf Borzoi Books|Young Adult|
 |Assassins Creed Collection||Oliver Bowden||Young Adult|
-|Divergent|Divergent (1)|Veronica Roth|Young Adult|
-|Insurgent|Divergent (2)|Veronica Roth|Young Adult|
-|Allegiant|Divergent (3)|Veronica Roth|Young Adult|
+|Divergent|Divergent (1)|Veronica Roth|Katherine Tegen Books|Young Adult|
+|Insurgent|Divergent (2)|Veronica Roth|HarperCollins Children's Books|Young Adult|
+|Allegiant|Divergent (3)|Veronica Roth|HarperCollins Children's Books|Young Adult|
