@@ -46,3 +46,4 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |Bumblebee|Action, Adventure, Science Fiction|
 |1917|War, Drama, Action, Thriller|
 |Kingsman: The Secret Service|Crime, Comedy, Action, Adventure|
+|Kingsman: The Golden Circle|Action, Adventure, Comedy, Crime, Thriller|
