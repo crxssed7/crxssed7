@@ -57,3 +57,4 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |1917|Drama, History, War|
 |The Iron Giant|Adventure, Animation, Family, Science Fiction|
 |How to Train Your Dragon Collection|Adventure, Animation, Family|
+|Spirited Away|Adventure, Anime, Family|
