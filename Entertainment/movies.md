@@ -51,3 +51,4 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |The Inbetweeners Movie|Comedy|
 |The Inbetweeners 2|Comedy|
 |Wonder|Drama, Family|
+|Onward|Animation, Fantasy|
