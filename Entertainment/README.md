@@ -31,3 +31,4 @@ Below is software that you can find to enhance your entertainment experience. It
 - [Plex Apps](https://www.plex.tv/en-gb/media-server-downloads/#plex-app): Same as Jellyfin, but many of them are not free.
 - [Ubooquity Webapp](https://vaemendis.net/ubooquity/): Ubooquity has it's own webapp built in to the server software, same with Jellyfin and Plex.
 - [Kuboo](https://play.google.com/store/apps/details?id=com.sethchhim.kuboo&hl=en_GB&gl=US): 👑 Reader for Ubooquity, available for android.
+- [Calibre](): Meant to be a very good comic reader. Apparently has functionality to be both a player and a server. Personally I wasn't very fond of it.
