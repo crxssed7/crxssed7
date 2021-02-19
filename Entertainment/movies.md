@@ -48,3 +48,4 @@ Below is a list of movies that I recommend. Use CTRL+F to get around. All movies
 |Kingsman: The Secret Service|Crime, Comedy, Action, Adventure|
 |Kingsman: The Golden Circle|Action, Adventure, Comedy, Crime, Thriller|
 |Indiana Jones Collection|Adventure, Action|
+|The Inbetweeners Movie|Comedy|
