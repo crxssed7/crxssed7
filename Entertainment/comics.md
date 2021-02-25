@@ -2,11 +2,11 @@ Comics
 ===================
 
 Below is a list of comics that I recommend. Use CTRL+F to get around. All comics will have their publishers listed too listed too. <br>
-Many of these comics include there "sub events", for example, Venom (2018 - present) leads into the Absolute Carnage event and all of its sub-issues.
 
 |Name|Publisher|
 |---|---|
 |Venom (2018 - present)|Marvel|
+|Absolute Carnage (2019)|Marvel|
 |Toxin (2005)|Marvel|
 |Rick And Morty|Oni Press|
 |Pocket Like You Stole It: Rick and Morty|Oni Press|
