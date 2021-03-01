@@ -1,7 +1,7 @@
 Comics
 ===================
 
-Below is a list of comics that I recommend. Use CTRL+F to get around. All comics will have their publishers listed too listed too. <br>
+Below is a list of comics that I recommend. Use CTRL+F to get around. All comics will have their publishers listed too. <br>
 
 |Name|Publisher|
 |---|---|
