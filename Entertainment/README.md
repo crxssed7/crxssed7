@@ -17,6 +17,9 @@ Below is software that you can find to enhance your entertainment experience. It
 - [TV Time](https://www.tvtime.com): Good tracker, mainly available on android, and has a webapp. Plus has a social media aspect to it with reviews and comments on each movie/show from different users.
 - [Trakt.tv](https://trakt.tv): Very good tracker, best used when integrated with your media players such as Plex (premium) and Jellyfin (free).
 
+**Comics**
+- [Comic Tracker](https://github.com/crxssed7/comics-cli): A CLI application I'm developing that allows you to add comics to your collection, and mark certain issues as read.
+
 ## Media players and servers
 **Servers**
 
