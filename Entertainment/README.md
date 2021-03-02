@@ -18,7 +18,8 @@ Below is software that you can find to enhance your entertainment experience. It
 - [Trakt.tv](https://trakt.tv): Very good tracker, best used when integrated with your media players such as Plex (premium) and Jellyfin (free).
 
 **Comics**
-- [Comic Tracker](https://github.com/crxssed7/comics-cli): A CLI application I'm developing that allows you to add comics to your collection, and mark certain issues as read.
+- [Comic Tracker](https://github.com/crxssed7/comics-cli): 👑 A CLI application I'm developing that allows you to add comics to your collection, and mark certain issues as read.
+- [League of Comic Geeks](https://leagueofcomicgeeks.com/): 👑 A comic tracker for both desktop (website) and mobile. The website is very nice and clean looking (pity it isn't a webapp), however the mobile app can be a bit laggy and glitchy, and in some cases hard to use. The website alone makes it a very recommended service, though
 
 ## Media players and servers
 **Servers**
