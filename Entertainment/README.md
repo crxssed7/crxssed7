@@ -21,6 +21,9 @@ Below is software that you can find to enhance your entertainment experience. It
 - [Comic Tracker](https://github.com/crxssed7/comics-cli): 👑 A CLI application I'm developing that allows you to add comics to your collection, and mark certain issues as read.
 - [League of Comic Geeks](https://leagueofcomicgeeks.com/): 👑 A comic tracker for both desktop (website) and mobile. The website is very nice and clean looking (pity it isn't a webapp), however the mobile app can be a bit laggy and glitchy, and in some cases hard to use. The website alone makes it a very recommended service, though
 
+**Books**
+- [Bookshelf](https://www.bookshelfapp.info): 👑 Exclusively for mobile unfortunately, however it has a really clean interface, very easy to use, and all book metadata is editable (author, cover, etc).
+
 ## Media players and servers
 **Servers**
 
