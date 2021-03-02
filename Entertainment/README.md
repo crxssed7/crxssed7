@@ -23,6 +23,7 @@ Below is software that you can find to enhance your entertainment experience. It
 
 **Books**
 - [Bookshelf](https://www.bookshelfapp.info): 👑 Exclusively for mobile unfortunately, however it has a really clean interface, very easy to use, and all book metadata is editable (author, cover, etc).
+- [GoodReads](https://www.goodreads.com): The most popular book tracker, I've not used it enough to judge it accurately.
 
 ## Media players and servers
 **Servers**
