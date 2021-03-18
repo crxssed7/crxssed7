@@ -22,3 +22,4 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 |Adventure TIme Season 11|KABOOM!|
 |Regular Show Parks and Wrecks||
 |Venom vs. Carnage (2005)|Marvel|
+|The Amazing Spider-Man (2018)|Marvel|
