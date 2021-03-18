@@ -6,6 +6,7 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 |Name|Publisher|
 |---|---|
 |Venom (2018 - present)|Marvel|
+|Web of Venom Oneshots|Marvel|
 |Absolute Carnage (2019)|Marvel|
 |Toxin (2005)|Marvel|
 |Rick And Morty|Oni Press|
