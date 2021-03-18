@@ -8,6 +8,7 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 |Venom (2018 - present)|Marvel|
 |Web of Venom Oneshots|Marvel|
 |Absolute Carnage (2019)|Marvel|
+|Absolute Carnage Tie-Ins||
 |Toxin (2005)|Marvel|
 |Rick And Morty|Oni Press|
 |Pocket Like You Stole It: Rick and Morty|Oni Press|
