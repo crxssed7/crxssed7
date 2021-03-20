@@ -1,4 +1,4 @@
-Entertainment
+😀 Entertainment
 =====================
 
 This section of my repo includes
