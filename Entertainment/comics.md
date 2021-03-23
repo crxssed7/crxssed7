@@ -22,7 +22,7 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 |Regular Show Hydration|BOOM! Studios|
 |Adventure Time x Regular Show|KABOOM!|
 |Adventure TIme Season 11|KABOOM!|
-|Regular Show Parks and Wrecks||
+|Regular Show Parks and Wrecks|KABOOM!|
 |Venom vs. Carnage (2005)|Marvel|
 |The Amazing Spider-Man (2018)|Marvel|
 |Strange Tales (#110-#141 Doctor Strange Origins)|Marvel|
