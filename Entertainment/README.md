@@ -3,10 +3,10 @@
 
 This section of my repo includes
 
-- [TV shows](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/tv-shows.md)
-- [Movies](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/movies.md)
-- [Books](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/books.md)
-- [Comics](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/comics.md)
+- [📺 TV shows](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/tv-shows.md)
+- [🎥 Movies](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/movies.md)
+- [📚 Books](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/books.md)
+- [💥 Comics](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/comics.md)
 
 Below is software that you can find to enhance your entertainment experience. Items marked as 👑 are recommended by me.
 
