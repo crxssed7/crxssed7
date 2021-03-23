@@ -19,7 +19,7 @@ Below is a list of comics that I recommend. Use CTRL+F to get around. All comics
 |Thor: God of Thunder (2013)|Marvel|
 |Regular Show - 25 Years Later|KABOOM!|
 |Infinity Gauntlet|Marvel|
-|Regular Show Hydration||
+|Regular Show Hydration|BOOM! Studios|
 |Adventure Time x Regular Show|KABOOM!|
 |Adventure TIme Season 11|KABOOM!|
 |Regular Show Parks and Wrecks||
