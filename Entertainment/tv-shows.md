@@ -44,4 +44,4 @@ Below is a list of TV Shows that I recommend. Use CTRL+F to get around. All show
 |The Goldbergs|ABC|Comedy|
 |Hot Ones|YouTube|Food, Game Show, Talk Show|
 |The Falcon and the Winter Soldier|Disney+|Action, Adventure, Drama, Mini-Series|
-|Spider-Man: The Animated Series||
+|Spider-Man: The Animated Series|FOX|
