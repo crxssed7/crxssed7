@@ -13,7 +13,7 @@ Below is software that you can find to enhance your entertainment experience. It
 ## 🖲 Trackers
 **TV shows and movies**
 
-- [TelePeeps](https://kitric.github.io/projects/telepeeps.html): 👑 Best tracker of course (not because it was developed by me 😂)
+- [TelePeeps](https://kitric.github.io/projects/telepeeps): 👑 Best tracker of course (not because it was developed by me 😂)
 - [TV Time](https://www.tvtime.com): Good tracker, mainly available on android, and has a webapp. Plus has a social media aspect to it with reviews and comments on each movie/show from different users.
 - [Trakt.tv](https://trakt.tv): Very good tracker, best used when integrated with your media players such as Plex (premium) and Jellyfin (free).
 - [MyAnimeList](https://myanimelist.net): From what I heard, a very good Anime tracker. I don't watch anime, so I can't judge 🤷‍♂️
@@ -44,4 +44,4 @@ Below is software that you can find to enhance your entertainment experience. It
 - [Kuboo](https://play.google.com/store/apps/details?id=com.sethchhim.kuboo&hl=en_GB&gl=US): 👑 Reader for Ubooquity, available for android.
 - [Calibre](https://calibre-ebook.com/): Meant to be a very good comic reader. Apparently has functionality to be both a player and a server. Personally I wasn't very fond of it.
 - [Tachiyomi](https://tachiyomi.org): 👑 Quite possibly the best comic reader I have ever come across. The app itself is nothing but a container for all the extensions that you can install that allow you to read comics from different sources. I use this for reading comics from my Komga server, and from online sources such as ReadComicOnline.to. There is a desktop version available called [Tachidesk](https://github.com/AriaMoradi/Tachidesk), however it is unofficial and a little bit buggy.
-- [ComicPeeps](https://kitric.github.io/projects/comicpeeps.html): An comic reader that I'm currently developing that allows you to read comics and manage your library. Only available on windows, however, and is still currently in a buggy beta stage.
+- [ComicPeeps](https://kitric.github.io/projects/comicpeeps): An comic reader that I'm currently developing that allows you to read comics and manage your library. Only available on windows, however, and is still currently in a buggy beta stage.
