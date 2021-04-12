@@ -15,7 +15,7 @@ Below is software that you can find to enhance your entertainment experience. It
 
 - [TelePeeps](https://kitric.github.io/projects/telepeeps/): 👑 Best tracker of course (not because it was developed by me 😂)
 - [TV Time](https://www.tvtime.com): Good tracker, mainly available on android, and has a webapp. Plus has a social media aspect to it with reviews and comments on each movie/show from different users.
-- [Trakt.tv](https://trakt.tv): Very good tracker, best used when integrated with your media players such as Plex (premium) and Jellyfin (free). Trakt also has alot of third party (free and paid) clients, personally I use [Showly]() which is open source right here on GitHub. Check out my Trak profile [here]()
+- [Trakt.tv](https://trakt.tv): 👑 Very good tracker, best used when integrated with your media players such as Plex (premium) and Jellyfin (free). Trakt also has alot of third party (free and paid) clients, personally I use [Showly]() which is open source right here on GitHub. Check out my Trakt profile [here]()
 - [MyAnimeList](https://myanimelist.net): From what I heard, a very good Anime tracker. I don't watch anime, so I can't judge 🤷‍♂️
 
 **Comics**
