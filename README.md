@@ -15,5 +15,4 @@ human.AgeAsync();
 ```
 
 [![crxssed's GitHub stats](https://github-readme-stats.vercel.app/api?username=crxssed7&show_icons=true&theme=dracula)](https://github.com/crxssed7)
-<br>
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crxssed7&layout=compact&theme=dracula)](https://github.com/crxssed7)
