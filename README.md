@@ -13,3 +13,5 @@ Human human = new Human()
 
 human.AgeAsync();
 ```
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=crxssed7&layout=compact&theme=dracula)](https://github.com/crxssed7)
