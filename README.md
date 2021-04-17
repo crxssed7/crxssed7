@@ -1,2 +1,2 @@
 <div align="center">
-  <h3>Hello There!</h3><h6>(General Kenobi!)</h6>
+  <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif">
