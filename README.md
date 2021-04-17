@@ -19,4 +19,10 @@
   <p><b>Editors/Environments:</b></p>
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
   <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <br><br>
+  <p><b>Socials:</b></p>
+  <img alt="Instagram" src="https://img.shields.io/badge/crxssed7%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/>
+  <img alt="Twitter" src="https://img.shields.io/badge/crxssed7%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/>
+  <img alt="Twitch" src="https://img.shields.io/badge/crxssed7%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/>
+  <img alt="Youtube" src="https://img.shields.io/badge/crxssed7%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/>
 </div>
