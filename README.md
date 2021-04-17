@@ -3,7 +3,7 @@
   <h3>Hi 👋</h3>
   <p>I'm an 18 year old software engineer, aspiring to be a full time programmer. My hobbies include watching tv/movies, reading comics/books, playing Rocket League (badly), and, of course, programming!</p>
   <img src="https://github-readme-stats.vercel.app/api?username=crxssed7&show_icons=true&theme=dracula&hide_border=true" width="auto" height="200px">
-  <img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px">
+  <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
   <hr>
 </div>
 <div>
