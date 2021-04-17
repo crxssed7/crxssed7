@@ -10,7 +10,7 @@
   <details>
     <summary>Technologies</summary>
     <br>
-    <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort="><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
+    <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#23&sort="><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort="><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort="><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
   </details>
