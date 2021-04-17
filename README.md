@@ -2,6 +2,7 @@
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>Hi 👋</h3>
   <p>I'm an 18 year old software engineer, aspiring to be a full time programmer. My hobbies include watching tv/movies, reading comics/books, playing Rocket League (badly), and, of course, programming!</p>
+  <img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card">
   <hr>
 </div>
 <div>
@@ -33,5 +34,5 @@
     <a href="https://twitter.com/crxssed7"><img alt="Twitter" src="https://img.shields.io/badge/crxssed7%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
     <a href="https://www.twitch.tv/crxssed7"><img alt="Twitch" src="https://img.shields.io/badge/crxssed7%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
     <a href="https://www.youtube.com/channel/UCclO3G-NKAdDJdMVOod_StA"><img alt="Youtube" src="https://img.shields.io/badge/crxssed7%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
-  </details>=
+  </details>
 </div>
