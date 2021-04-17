@@ -1,12 +1,10 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>Hi 👋</h3>
-  <p>Welcome to my profile, feel free to snoop around 😄</p>
+  <p>I'm an 18 year old software engineer, aspiring to be a full time programmer. My hobbies include watching tv/movies, reading comics/books, playing Rocket League (badly), and, of course, programming!</p>
   <hr>
 </div>
 <div>
-  <p><b>About Me</b></p>
-  <p>I'm an 18 year old software engineer, aspiring to be a full time programmer. My hobbies include watching tv/movies, reading comics/books, playing Rocket League (badly), and, of course, programming!</p>
   <details>
     <summary>Technologies</summary>
     <br>
