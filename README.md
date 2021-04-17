@@ -3,6 +3,8 @@
   <h3>Hi 👋</h3>
   <p>Welcome to my profile, feel free to snoop around 😄</p>
   <hr>
+</div>
+<div>
   <p><b>Technologies:</b></p>
   <img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/>
   <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
