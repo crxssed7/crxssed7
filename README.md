@@ -12,7 +12,6 @@
     <img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
   </details>
-  <br><br>
   <details>
     <summary>Learning</summary>
     <br>
@@ -21,14 +20,12 @@
     <img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
     <img alt="NestJS" src="https://img.shields.io/badge/nestjs%20-%23E0234E.svg?&style=for-the-badge&logo=nestjs&logoColor=white" />
   </details>
-  <br><br>
   <details>
     <summary>Editors/Environments</summary>
     <br>
     <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/>
     <img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   </details>
-  <br><br>
   <details>
     <summary>Socials</summary>
     <br>
