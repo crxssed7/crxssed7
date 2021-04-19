@@ -1,7 +1,7 @@
 😀 Entertainment
 =====================
 
-This section of my repo includes
+You've stumbled on a secret part of my repo 😶
 
 - [📺 TV shows](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/tv-shows.md)
 - [🎥 Movies](https://github.com/crxssed7/crxssed7/blob/main/Entertainment/movies.md)
