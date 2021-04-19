@@ -21,7 +21,7 @@
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/></a>
-    <img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/>
+    <a href="#"><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
   </details>
   <details>
     <summary>Productivity</summary>
