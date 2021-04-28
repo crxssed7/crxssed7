@@ -5,7 +5,7 @@
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crxssed7&show_icons=true&theme=dracula&hide_border=true" width="auto" height="200px"></a>
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
   <div align="center">
-    <img src="https://tv-quote.herokuapp.com/quote" height="150px" width="auto">
+    <img src="https://tv-quote.herokuapp.com/quote" height="175px" width="auto">
   </div>
   <hr>
 </div>
