@@ -12,7 +12,7 @@
 <div>
   <p>Check out my skills and tools below 👇</p>
   <details>
-    <summary>Technologies</summary>
+    <summary>👨‍💻Technologies</summary>
     <br>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c%23&sort="><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort="><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
@@ -20,7 +20,7 @@
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
   </details>
   <details>
-    <summary>Learning</summary>
+    <summary>👨‍🎓Learning</summary>
     <br>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
@@ -28,7 +28,7 @@
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=kotlin&sort="><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
   </details>
   <details>
-    <summary>Productivity</summary>
+    <summary>✒Productivity</summary>
     <br>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
@@ -36,7 +36,7 @@
     <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /></a>
   </details>
   <details>
-    <summary>Socials</summary>
+    <summary>💬Socials</summary>
     <br>
     <a href="https://www.instagram.com/crxssed7/"><img alt="Instagram" src="https://img.shields.io/badge/crxssed7%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <a href="https://twitter.com/crxssed7"><img alt="Twitter" src="https://img.shields.io/badge/crxssed7%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
