@@ -41,3 +41,6 @@
     <a href="https://tinyurl.com/crxsseds-hangout"><img src="https://img.shields.io/badge/crxssed's_hangout-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
   </details>
 </div>
+<div align="center">
+  <img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto">
+</div>
