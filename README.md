@@ -3,7 +3,10 @@
   <h3>Hi 👋</h3>
   <p>I'm an 18 year old software engineer, aspiring to be a full time programmer. My hobbies include watching tv/movies, reading comics/books, playing Rocket League (badly), and, of course, programming! Check out my <a href="https://tinyurl.com/crxsseds-hangout"><img src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/notion.svg" height="20px"> Notion</a> page where I post blogs and extra ~stuff~</p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crxssed7&show_icons=true&theme=dracula&hide_border=true" width="auto" height="200px"></a>
-  <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
+  <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="150px"></a>
+  <div align="center">
+    <img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto">
+  </div>
   <hr>
 </div>
 <div>
@@ -40,7 +43,4 @@
     <a href="https://www.youtube.com/channel/UCclO3G-NKAdDJdMVOod_StA"><img alt="Youtube" src="https://img.shields.io/badge/crxssed7%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
     <a href="https://tinyurl.com/crxsseds-hangout"><img src="https://img.shields.io/badge/crxssed's_hangout-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
   </details>
-</div>
-<div align="center">
-  <img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto">
 </div>
