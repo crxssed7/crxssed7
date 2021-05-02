@@ -10,7 +10,7 @@
   <hr>
 </div>
 <div>
-  <p>Check out my skills and tools below 👇</p>
+  <p>✨ Check out my skills and tools below 👇</p>
   <details>
     <summary>👨‍💻 Technologies</summary>
     <br>
