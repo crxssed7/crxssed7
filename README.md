@@ -14,6 +14,7 @@
   <details>
     <summary>👨‍💻 Technologies</summary>
     <br>
+    <p>Technologies and Languages I know</p>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c%23&sort="><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort="><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort="><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
@@ -23,6 +24,7 @@
   <details>
     <summary>👨‍🎓 Learning</summary>
     <br>
+    <p>Technologies and Languages I'm learning</p>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/></a>
@@ -30,6 +32,7 @@
   <details>
     <summary>✒ Productivity</summary>
     <br>
+    <p>Programs I use to get work done</p>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/></a>
@@ -38,6 +41,7 @@
   <details>
     <summary>💬 Socials</summary>
     <br>
+    <p>Social Media and Blogs</p>
     <a href="https://www.instagram.com/crxssed7/"><img alt="Instagram" src="https://img.shields.io/badge/crxssed7%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
     <a href="https://twitter.com/crxssed7"><img alt="Twitter" src="https://img.shields.io/badge/crxssed7%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
     <a href="https://www.twitch.tv/crxssed7"><img alt="Twitch" src="https://img.shields.io/badge/crxssed7%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
