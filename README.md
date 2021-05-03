@@ -17,6 +17,7 @@
     <p>Technologies and Languages I know</p>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c%23&sort="><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort="><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
+    <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort="><img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort="><img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=kotlin&sort="><img alt="Kotlin" src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white"/></a>
