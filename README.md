@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>Hi 👋</h3>
-  <p>I'm an 18 year old software engineer, aspiring to be a full time programmer. My hobbies include watching tv/movies, reading comics/books, playing Rocket League (badly), and, of course, programming! Check out my <a href="https://tinyurl.com/crxsseds-hangout">Notion</a> page where I post blogs and extra ~stuff~</p>
+  <p><code>I'm an 18 year old software engineer, aspiring to be a full time programmer. My hobbies include watching tv/movies, reading comics/books, playing Rocket League (badly), and, of course, programming! Check out my <a href="https://tinyurl.com/crxsseds-hangout">Notion</a> page where I post blogs and extra ~stuff~</code></p>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crxssed7&show_icons=true&theme=dracula&hide_border=true" width="auto" height="200px"></a>
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
   <div align="center">
