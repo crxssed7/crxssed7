@@ -6,6 +6,7 @@
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
   <div align="center">
     <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="175px" width="auto"></a>
+    <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=crxssed7&layout=compact&theme=dracula&hide_border=true" height="175px" width="auto"></a>
   </div>
   <hr>
 </div>
