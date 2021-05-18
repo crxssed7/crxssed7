@@ -46,7 +46,7 @@
     <br>
     <p>Social Media and Blogs</p>
     <a href="https://www.instagram.com/crxssed7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <a href="https://twitter.com/crxssed7"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a>
+    <!-- <a href="https://twitter.com/crxssed7"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
     <a href="https://www.twitch.tv/crxssed7"><img alt="Twitch" src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
     <a href="https://www.youtube.com/channel/UCclO3G-NKAdDJdMVOod_StA"><img alt="Youtube" src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
     <a href="https://tinyurl.com/crxsseds-hangout"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
