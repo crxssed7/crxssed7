@@ -3,7 +3,8 @@
   <h3>Hi 👋</h3>
   <p><code>I'm an 18 year old software engineer, aspiring to be a full time programmer. My interests include watching tv/movies, reading comics/books, playing Rocket League (badly), Star Wars, Marvel/MCU, and, of course, programming! Check out my <a href="https://github.com/crxssed7/entertainment">entertainment</a> repo and my <a href="https://tinyurl.com/crxsseds-hangout">Notion</a> page where I post blogs and extra ~stuff~</code></p>
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
-  <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto"></a><br>
+  <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto"></a>
+  <br><br>
   <code><a href="https://crxssed7.github.io/assets/img/Tanveer%20CV.pdf">Curriculum Vitae</a></code>
   <hr>
 </div>
