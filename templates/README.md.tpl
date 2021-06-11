@@ -2,12 +2,8 @@
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>Hi 👋</h3>
   <p><code>I'm an $age year old software engineer, aspiring to be a full time programmer. My interests include watching tv/movies, reading comics/books, playing Rocket League (badly), Star Wars, Marvel/MCU, and, of course, programming! Check out my <a href="https://tinyurl.com/crxsseds-hangout">Notion</a> page where I post blogs and extra ~stuff~</code></p>
-  <!-- <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=crxssed7&show_icons=true&theme=dracula&hide_border=true" width="auto" height="200px"></a> -->
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
   <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto"></a>
-  <!-- <div align="center">
-    <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="175px" width="auto"></a>
-  </div> -->
   <hr>
 </div>
 <div>
@@ -46,7 +42,6 @@
     <br>
     <p>Social Media and Blogs</p>
     <a href="https://www.instagram.com/crxssed7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-    <!-- <a href="https://twitter.com/crxssed7"><img alt="Twitter" src="https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/></a> -->
     <a href="https://www.twitch.tv/crxssed7"><img alt="Twitch" src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a>
     <a href="https://www.youtube.com/channel/UCclO3G-NKAdDJdMVOod_StA"><img alt="Youtube" src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a>
     <a href="https://tinyurl.com/crxsseds-hangout"><img src="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/></a>
