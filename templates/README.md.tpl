@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>Hi 👋</h3>
-  <p><code>I'm a $age year old software engineer, aspiring to be a full time programmer. My interests include watching tv/movies, reading comics/books, playing Rocket League (badly), Star Wars, Marvel/MCU, and, of course, programming! Check out my <a href="https://crxssed7.github.io/entertainment/">entertainment</a> repo and my <a href="https://tinyurl.com/crxsseds-hangout">Notion</a> page where I post blogs and extra ~stuff~</code></p>
+  <p><code>I'm a $age year old software developer. My interests include watching tv/movies, reading comics/books, playing Rocket League (badly), Star Wars, Marvel/MCU, and, of course, programming! Check out my <a href="https://crxssed7.github.io/entertainment/">entertainment</a> repo and my <a href="https://tinyurl.com/crxsseds-hangout">Notion</a> page where I post blogs and extra ~stuff~</code></p>
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
   <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto"></a>
   <br><br>
