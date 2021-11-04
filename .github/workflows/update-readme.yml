@@ -26,7 +26,7 @@ jobs:
       - run: |
           echo "Authors age in years: ${{ steps.birthday.outputs.age }}"
 
-      - uses: jacobtomlinson/gha-find-replace@master
+      - uses: jacobtomlinson/gha-find-replace@v2
         id: replace
         with:
           find: "\\$age"
