@@ -30,6 +30,7 @@ jobs:
           find: "\\$age"
           replace: "${{ steps.birthday.outputs.age }}"
           include: "^README\\.md$"
+          regex: true
 
       - uses: stefanzweifel/git-auto-commit-action@v2
         env:
