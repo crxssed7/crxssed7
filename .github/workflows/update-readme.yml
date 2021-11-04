@@ -29,9 +29,10 @@ jobs:
       - uses: jacobtomlinson/gha-find-replace@v2
         id: replace
         with:
-          find: "\\$age"
+          find: "age"
           replace: "${{ steps.birthday.outputs.age }}"
-          include: "^README\\.md$"
+          include: "README.md"
+          regex: false
 
       - uses: stefanzweifel/git-auto-commit-action@v2
         env:
