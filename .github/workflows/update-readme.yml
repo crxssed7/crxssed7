@@ -27,7 +27,7 @@ jobs:
       - uses: jacobtomlinson/gha-find-replace@master
         id: replace
         with:
-          find: "\\$age"
+          find: "age"
           replace: "${{ steps.birthday.outputs.age }}"
           include: "^README\\.md$"
 
