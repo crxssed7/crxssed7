@@ -25,13 +25,12 @@
     <br>
     <p>Technologies and Languages I'm learning</p>
     <a href="#"><img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></a>
-    <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="React" src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/></a>
-    <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort="><img alt="Next JS" src="https://img.shields.io/badge/next%20js%20-%23000000.svg?&style=for-the-badge&logo=next.js&logoColor=white"/></a>
+    <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort="><img alt="React" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></a>
   </details>
   <details>
     <summary>✒ Productivity</summary>
     <br>
-    <p>Programs I use to get work done</p>
+    <p>Programs I have used to get work done</p>
     <a href="#"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?&style=for-the-badge&logo=visual-studio&logoColor=white"/></a>
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white"/></a>
     <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello%20-%23026AA7.svg?&style=for-the-badge&logo=Trello&logoColor=white"/></a>
