@@ -24,7 +24,6 @@
     <summary>👨‍🎓 Learning</summary>
     <br>
     <p>Technologies and Languages I'm learning</p>
-    <a href="#"><img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/></a>
     <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort="><img alt="React" src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"/></a>
   </details>
   <details>
