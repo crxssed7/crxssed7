@@ -29,7 +29,7 @@
   <code><a href="#"><img alt="Android Studio" src="https://img.shields.io/badge/Android_Studio-3DDC84.svg?&style=for-the-badge&logo=android&logoColor=white" /></a></code>
   <code><a href="#"><img alt="Arch Linux" src="https://img.shields.io/badge/Arch%20Linux-1793D1?style=for-the-badge&logo=archlinux&logoColor=white" /></a></code>
   <br>
-  <p>💬 Socials</p>
+  <h5>💬 Socials</h5>
   <code><a href="https://www.instagram.com/crxssed7/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a></code>
   <code><a href="https://www.twitch.tv/crxssed7"><img alt="Twitch" src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></code>
   <code><a href="https://www.youtube.com/channel/UCclO3G-NKAdDJdMVOod_StA"><img alt="Youtube" src="https://img.shields.io/badge/YouTube%20-%23FF0000.svg?&style=for-the-badge&logo=YouTube&logoColor=white"/></a></code>
