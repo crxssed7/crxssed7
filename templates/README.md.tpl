@@ -10,12 +10,7 @@
 </div>
 <div>
   <h4>✨ Check out my skills and tools below 👇</h4>
-  <details>
-    <summary>👨‍💻 Technologies</summary>
-    <br>
-
-  </details>
-  <p>Technologies and Languages I know</p>
+  <h5>👨‍💻 Technologies</h5>
   <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c%23&sort="><img alt="C#" src="https://img.shields.io/badge/c%23%20-%23239120.svg?&style=for-the-badge&logo=c-sharp&logoColor=white"/></a>
   <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort="><img alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white"/></a>
   <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort="><img alt="Xamarin" src="https://img.shields.io/badge/Xamarin-3498DB.svg?&style=for-the-badge&logo=xamarin&logoColor=white" /></a>
