@@ -34,4 +34,4 @@ socials/
   <h3 align="center">💥 Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a> 💥</h3>
 </pre>
 
-<p>ᴵᶠ ᵗʰᵉ ᶦᵐᵃᵍᵉˢ ᵒⁿ ᵗʰᶦˢ ᵈᵒᶜᵘᵐᵉⁿᵗ ᵈᵒⁿ'ᵗ ˡᵒᵃᵈ, ᵖˡᵉᵃˢᵉ ʳᵉᶠʳᵉˢʰ ᵗʰᵉ ᵖᵃᵍᵉ</p>
+###### If the images on this document don't load properly, please refresh the page.
