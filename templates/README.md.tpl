@@ -3,6 +3,7 @@
   <h3>Hi 👋</h3>
   <p><code>I'm a $age year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Star Wars, Marvel/MCU, and, of course, programming!</code></p>
   <code><a href="https://crxssed7.github.io/assets/img/Tanveer%20CV.pdf">CV</a></code>
+  <br>
   <pre>
     <p align="center"><img src="https://github.com/kaboom-db/kaboom-api/blob/master/brand%20assets/KABOOM.png?raw=true" width="50%" height="auto" /></p>
     <p align="center">💥 Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a> 💥</p>
@@ -33,6 +34,8 @@
   <code><a href="https://trakt.tv/users/crxssed"><img src="https://img.shields.io/badge/Trakt-ED1C24.svg?&style=for-the-badge&logo=Trakt&logoColor=white"/></a></code>
 </div>
 <hr>
-<a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
-<a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto"></a>
-<br><br>
+<div align="center">
+  <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
+  <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto"></a>
+  <br><br>
+</div>
