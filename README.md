@@ -35,25 +35,25 @@
 </div>
 
 ```
-my-skills-and-tools/<br>
-    curriculum-vitae.pdf<br>
-    technologies/<br>
-        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort=">C#</a><br>
-        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort=">.Net</a><br>
-        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort=">Python</a><br>
-    learning/<br>
-        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort=">Django</a><br>
-        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort=">Javascript</a><br>
-        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=shell&sort=">Arch Linux</a><br>
-    productivity/<br>
-        <a href="https://code.visualstudio.com">VS Code</a><br>
-        <a href="https://trello.com">Trello</a><br>
-        <a href="https://www.postman.com">Postman</a><br>
-        <a href="https://insomnia.rest">Insomnia</a><br>
-    socials/<br>
-        <a href="https://www.instagram.com/crxssed7/">Instagram</a><br>
-        <a href="https://www.twitch.tv/crxssed7">Twitch</a><br>
-        <a href="https://trakt.tv/users/crxssed">Trakt</a><br>
+my-skills-and-tools/ 
+    curriculum-vitae.pdf 
+    technologies/ 
+        [C#](https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort=) 
+        [.Net](https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort=) 
+        [Python](https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort=) 
+    learning/ 
+        [Django](https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort=) 
+        [Javascript](https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort=) 
+        [Arch Linux](https://github.com/crxssed7?tab=repositories&q=&type=&language=shell&sort=) 
+    productivity/ 
+        [VS Code](https://code.visualstudio.com) 
+        [Trello](https://trello.com) 
+        [Postman](https://www.postman.com) 
+        [Insomnia](https://insomnia.rest) 
+    socials/ 
+        [Instagram](https://www.instagram.com/crxssed7/) 
+        [Twitch](https://www.twitch.tv/crxssed7) 
+        [Trakt](https://trakt.tv/users/crxssed)
 ```
 
 <hr>
