@@ -3,8 +3,8 @@
   <h3>Hi 👋</h3>
   <p><code>I'm a 19 year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Star Wars, Marvel/MCU, and, of course, programming!</code></p>
   <pre>
-    <img src="https://github.com/kaboom-db/kaboom-api/blob/master/brand%20assets/KABOOM.png?raw=true" width="50%" height="auto" />
-    <p>Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a></p>
+    <p align="center"><img src="https://github.com/kaboom-db/kaboom-api/blob/master/brand%20assets/KABOOM.png?raw=true" width="50%" height="auto" /></p>
+    <p align="center">💥 Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a> 💥</p>
   </pre>
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
   <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto"></a>
