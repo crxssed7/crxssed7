@@ -2,9 +2,7 @@
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>Hi 👋</h3>
   <p><code>I'm a 19 year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Star Wars, Marvel/MCU, and, of course, programming!</code></p>
-  <pre>
-    <p align="center"><code><a href="https://crxssed7.github.io/assets/img/Tanveer%20CV.pdf">CV</a></code></p>
-  </pre>
+  <code><a href="https://crxssed7.github.io/assets/img/Tanveer%20CV.pdf">CV</a></code>
   <pre>
     <p align="center"><img src="https://github.com/kaboom-db/kaboom-api/blob/master/brand%20assets/KABOOM.png?raw=true" width="50%" height="auto" /></p>
     <p align="center">💥 Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a> 💥</p>
