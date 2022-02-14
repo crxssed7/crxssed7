@@ -1,7 +1,7 @@
 <div align="center">
   <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="150px" width="auto"></a>
   <h3>Hi 👋</h3>
-  <p><code>I'm a 19 year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Star Wars, Marvel/MCU, and, of course, programming!</code></p>
+  <p><code>I'm a 19 year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Star Wars, Marvel/MCU, Ready Player One, and, of course, programming!</code></p>
   <br>
 </div>
 
