@@ -10,7 +10,8 @@
   </pre>
 </div>
 
-```
+<pre>
+
 my-skills-and-tools/ 
     curriculum-vitae.pdf 
     technologies/ 
@@ -30,7 +31,8 @@ my-skills-and-tools/
         [Instagram](https://www.instagram.com/crxssed7/) 
         [Twitch](https://www.twitch.tv/crxssed7) 
         [Trakt](https://trakt.tv/users/crxssed)
-```
+
+</pre>
 
 <hr>
 <div align="center">
