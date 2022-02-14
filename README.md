@@ -1,7 +1,10 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>Hi 👋</h3>
-  <p><code>I'm a 19 year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Star Wars, Marvel/MCU, and, of course, programming! Check out my <a href="https://crxssed7.github.io/entertainment/">entertainment</a> repo for recommendations.</code></p>
+  <p><code>I'm a 19 year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Star Wars, Marvel/MCU, and, of course, programming!</code></p>
+  <pre>
+    <code><p>      Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a>      </p></code>
+  </pre>
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
   <a href="https://tv-quote.herokuapp.com/"><img src="https://tv-quote.herokuapp.com/quote" height="200px" width="auto"></a>
   <br><br>
