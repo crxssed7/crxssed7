@@ -15,22 +15,22 @@
 my-skills-and-tools/ 
     curriculum-vitae.pdf 
     technologies/ 
-        [C#](https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort=) 
-        [.Net](https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort=) 
-        [Python](https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort=) 
+        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">C#</a> 
+        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">.Net</a> 
+        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">Python</a> 
     learning/ 
-        [Django](https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort=) 
-        [Javascript](https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort=) 
-        [Arch Linux](https://github.com/crxssed7?tab=repositories&q=&type=&language=shell&sort=) 
+        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">Django</a> 
+        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort=">Javascript</a> 
+        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=shell&amp;sort=">Arch Linux</a> 
     productivity/ 
-        [VS Code](https://code.visualstudio.com) 
-        [Trello](https://trello.com) 
-        [Postman](https://www.postman.com) 
-        [Insomnia](https://insomnia.rest) 
+        <a href="https://code.visualstudio.com">VS Code</a> 
+        <a href="https://trello.com">Trello</a> 
+        <a href="https://www.postman.com">Postman</a> 
+        <a href="https://insomnia.rest">Insomnia</a> 
     socials/ 
-        [Instagram](https://www.instagram.com/crxssed7/) 
-        [Twitch](https://www.twitch.tv/crxssed7) 
-        [Trakt](https://trakt.tv/users/crxssed)
+        <a href="https://www.instagram.com/crxssed7/">Instagram</a> 
+        <a href="https://www.twitch.tv/crxssed7">Twitch</a> 
+        <a href="https://trakt.tv/users/crxssed">Trakt</a>
 
 </pre>
 
