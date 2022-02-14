@@ -34,7 +34,7 @@
   <code><a href="https://trakt.tv/users/crxssed"><img src="https://img.shields.io/badge/Trakt-ED1C24.svg?&style=for-the-badge&logo=Trakt&logoColor=white"/></a></code>
 </div>
 <pre>
-<code>
+<p align="center">
 my-skills-and-tools/
     curriculum-vitae.pdf
     technologies/
@@ -54,7 +54,7 @@ my-skills-and-tools/
         <a href="https://www.instagram.com/crxssed7/">Instagram</a>
         <a href="https://www.twitch.tv/crxssed7">Twitch</a>
         <a href="https://trakt.tv/users/crxssed">Trakt</a>
-</code>
+</p>
 </pre>
 <hr>
 <div align="center">
