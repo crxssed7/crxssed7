@@ -13,24 +13,24 @@
 <pre>
 
 my-skills-and-tools/ 
-    curriculum-vitae.pdf 
-    technologies/ 
-        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">C#</a> 
-        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">.Net</a> 
-        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">Python</a> 
-    learning/ 
-        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">Django</a> 
-        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort=">Javascript</a> 
-        <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=shell&amp;sort=">Arch Linux</a> 
-    productivity/ 
-        <a href="https://code.visualstudio.com">VS Code</a> 
-        <a href="https://trello.com">Trello</a> 
-        <a href="https://www.postman.com">Postman</a> 
-        <a href="https://insomnia.rest">Insomnia</a> 
-    socials/ 
-        <a href="https://www.instagram.com/crxssed7/">Instagram</a> 
-        <a href="https://www.twitch.tv/crxssed7">Twitch</a> 
-        <a href="https://trakt.tv/users/crxssed">Trakt</a>
+        <a href="https://crxssed7.github.io/assets/img/Tanveer%20CV.pdf">tanveer-cv.pdf</a>
+        technologies/ 
+            <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">C#</a> 
+            <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">.Net</a> 
+            <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">Python</a> 
+        learning/ 
+            <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">Django</a> 
+            <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort=">Javascript</a> 
+            <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=shell&amp;sort=">Arch Linux</a> 
+        productivity/ 
+            <a href="https://code.visualstudio.com">VS Code</a> 
+            <a href="https://trello.com">Trello</a> 
+            <a href="https://www.postman.com">Postman</a> 
+            <a href="https://insomnia.rest">Insomnia</a> 
+        socials/ 
+            <a href="https://www.instagram.com/crxssed7/">Instagram</a> 
+            <a href="https://www.twitch.tv/crxssed7">Twitch</a> 
+            <a href="https://trakt.tv/users/crxssed">Trakt</a>
 
 </pre>
 
