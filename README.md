@@ -4,11 +4,12 @@
   <p><code>I'm a 19 year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Star Wars, Marvel/MCU, and, of course, programming!</code></p>
   <code><a href="https://crxssed7.github.io/assets/img/Tanveer%20CV.pdf">CV</a></code>
   <br>
-  <pre>
-    <p align="center"><img src="https://github.com/kaboom-db/kaboom-api/blob/master/brand%20assets/KABOOM.png?raw=true" width="50%" height="auto" /></p>
-    <p align="center">💥 Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a> 💥</p>
-  </pre>
 </div>
+
+<pre>
+  <p align="center"><img src="https://github.com/kaboom-db/kaboom-api/blob/master/brand%20assets/KABOOM.png?raw=true" width="50%" height="auto" /></p>
+  <p align="center">💥 Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a> 💥</p>
+</pre>
 
 <pre>
 
