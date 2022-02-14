@@ -31,5 +31,5 @@ my-skills-and-tools/
 
 <pre>
   <p align="center"><img src="https://github.com/kaboom-db/kaboom-api/blob/master/brand%20assets/KABOOM.png?raw=true" width="50%" height="auto" /></p>
-  <p align="center">💥 Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a> 💥</p>
+  <h3 align="center">💥 Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a> 💥</h3>
 </pre>
