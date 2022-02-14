@@ -33,6 +33,7 @@
   <code><a href="https://www.twitch.tv/crxssed7"><img alt="Twitch" src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></code>
   <code><a href="https://trakt.tv/users/crxssed"><img src="https://img.shields.io/badge/Trakt-ED1C24.svg?&style=for-the-badge&logo=Trakt&logoColor=white"/></a></code>
 </div>
+
 ```
 my-skills-and-tools/<br>
     curriculum-vitae.pdf<br>
@@ -54,6 +55,7 @@ my-skills-and-tools/<br>
         <a href="https://www.twitch.tv/crxssed7">Twitch</a><br>
         <a href="https://trakt.tv/users/crxssed">Trakt</a><br>
 ```
+
 <hr>
 <div align="center">
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
