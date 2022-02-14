@@ -22,10 +22,10 @@ my-skills-and-tools/
 ┃       ┗━━━━━━ <a href="https://trello.com">trello</a> 
 ┃       ┗━━━━━━ <a href="https://www.postman.com">postman</a> 
 ┃       ┗━━━━━━ <a href="https://insomnia.rest">insomnia</a> 
-┗━━━━━━ socials/ 
-┃       ┗━━━━━━ <a href="https://www.instagram.com/crxssed7/">instagram</a> 
-┃       ┗━━━━━━ <a href="https://www.twitch.tv/crxssed7">twitch</a> 
-┃       ┗━━━━━━ <a href="https://trakt.tv/users/crxssed">trakt</a>
+socials/ 
+┗━━━━━━ <a href="https://www.instagram.com/crxssed7/">instagram</a> 
+┗━━━━━━ <a href="https://www.twitch.tv/crxssed7">twitch</a> 
+┗━━━━━━ <a href="https://trakt.tv/users/crxssed">trakt</a>
 
 </pre>
 
