@@ -33,6 +33,27 @@
   <code><a href="https://www.twitch.tv/crxssed7"><img alt="Twitch" src="https://img.shields.io/badge/Twitch%20-%239146FF.svg?&style=for-the-badge&logo=Twitch&logoColor=white"/></a></code>
   <code><a href="https://trakt.tv/users/crxssed"><img src="https://img.shields.io/badge/Trakt-ED1C24.svg?&style=for-the-badge&logo=Trakt&logoColor=white"/></a></code>
 </div>
+<code>
+my-skills-and-tools/
+    curriculum-vitae.pdf
+    technologies/
+        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort=">C#</a>
+        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=c#&sort=">.Net</a>
+        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort=">Python</a>
+    learning/
+        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=python&sort=">Django</a>
+        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=javascript&sort=">Javascript</a>
+        <a href="https://github.com/crxssed7?tab=repositories&q=&type=&language=shell&sort=">Arch Linux</a>
+    productivity/
+        <a href="https://code.visualstudio.com">VS Code</a>
+        <a href="https://trello.com">Trello</a>
+        <a href="https://www.postman.com">Postman</a>
+        <a href="https://insomnia.rest">Insomnia</a>
+    socials/
+        <a href="https://www.instagram.com/crxssed7/">Instagram</a>
+        <a href="https://www.twitch.tv/crxssed7">Twitch</a>
+        <a href="https://trakt.tv/users/crxssed">Trakt</a>
+</code>
 <hr>
 <div align="center">
   <a href="https://trakt.tv/users/crxssed"><img src="https://trakt-widgets.herokuapp.com/crxssed/watched/card" width="auto" height="200px"></a>
