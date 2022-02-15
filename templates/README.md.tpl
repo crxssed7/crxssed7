@@ -33,5 +33,3 @@ socials/
   <p align="center"><a href="https://github.com/kaboom-db/kaboom-api"><img src="https://github.com/kaboom-db/kaboom-api/blob/master/brand%20assets/KABOOM.png?raw=true" width="50%" height="auto" /></a></p>
   <h3 align="center">💥 Currently working on: <a href="https://github.com/kaboom-db/kaboom-api">Kaboom</a> 💥</h3>
 </pre>
-
-###### If the images on this document don't load properly, please refresh the page.
