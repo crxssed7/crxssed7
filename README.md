@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>Hi 👋</h3>
-  <p><code>I'm a 19 year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Star Wars, Marvel/MCU, Ready Player One, and, of course, programming!</code></p>
+  <p><code>I'm a 19 year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Marvel/MCU, Star Wars, Ready Player One, and, of course, programming!</code></p>
   <br>
 </div>
 
