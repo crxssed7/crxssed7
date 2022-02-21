@@ -6,7 +6,6 @@
 </div>
 
 <pre>
-
 my-skills-and-tools/ 
 ┗━━━━━━ <a href="https://crxssed7.github.io/assets/img/Tanveer%20CV.pdf">tanveer-cv.pdf</a>
 ┗━━━━━━ technologies/ 
@@ -25,7 +24,6 @@ my-skills-and-tools/
 socials/ 
 ┗━━━━━━ <a href="https://www.twitch.tv/crxssed7">twitch</a> 
 ┗━━━━━━ <a href="https://trakt.tv/users/crxssed">trakt</a>
-
 </pre>
 
 <pre>
