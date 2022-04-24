@@ -28,5 +28,6 @@ socials/
 
 <pre>
   <p align="center"><a href="https://github.com/crxssed7/tankobon"><img src="https://github.com/crxssed7/tankobon/blob/master/brand/header.png?raw=true" width="500px" height="auto" /></a></p>
-  <h3 align="center">📚 Currently working on: <a href="https://github.com/crxssed7/tankobon">Tankōbon</a> 📚</h3>
+  <h3 align="center">Currently working on:</h3>
+  <h3 align="center">📚 <a href="https://github.com/crxssed7/tankobon">Tankōbon</a> 📚</h3>
 </pre>
