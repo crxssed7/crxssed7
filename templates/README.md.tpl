@@ -26,6 +26,6 @@ socials/
 </pre>
 
 <pre>
-  <p align="center"><a href="https://github.com/crxssed7/tankobon"><img src="https://github.com/crxssed7/tankobon/blob/master/brand/header.png?raw=true" width="500px" height="auto" /></a></p>
-  <h3 align="center"> Currently working on: <br>📚 <a href="https://github.com/crxssed7/tankobon">Tankōbon</a> 📚</h3>
+  <p align="center"><a href="https://github.com/kaboom-db/kaboom"><img src="https://github.com/kaboom-db/kaboom/blob/master/brand/KABOOM.png?raw=true" width="500px" height="auto" /></a></p>
+  <h3 align="center"> Currently working on: <br>💥 <a href="https://github.com/kaboom-db/kaboom">Kaboom</a> 💥</h3>
 </pre>
