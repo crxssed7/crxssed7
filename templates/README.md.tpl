@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="hero.png" width="100%">
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>Hi 👋</h3>
   <p><code>I'm a $age year old software developer. My interests include watching tv/movies/anime, reading comics/books/manga, Marvel/MCU, Star Wars, Ready Player One, and, of course, programming!</code></p>
@@ -30,3 +29,7 @@ socials/
   <p align="center"><a href="https://github.com/kaboom-db/kaboom"><img src="https://github.com/kaboom-db/kaboom/blob/master/brand/KABOOM.png?raw=true" width="500px" height="auto" /></a></p>
   <h3 align="center"> Currently working on: <br>💥 <a href="https://github.com/kaboom-db/kaboom">Kaboom</a> 💥</h3>
 </pre>
+
+<div align="center">
+  <img src="hero.png" width="100%">
+</div>
