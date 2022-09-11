@@ -29,7 +29,3 @@ socials/
   <p align="center"><a href="https://github.com/kaboom-db/kaboom"><img src="https://github.com/kaboom-db/kaboom/blob/master/brand/KABOOM.png?raw=true" width="500px" height="auto" /></a></p>
   <h3 align="center"> Currently working on: <br>💥 <a href="https://github.com/kaboom-db/kaboom">Kaboom</a> 💥</h3>
 </pre>
-
-<div align="center">
-  <img src="hero.png" width="100%">
-</div>
