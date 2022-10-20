@@ -29,3 +29,7 @@ socials/
   <p align="center"><a href="https://github.com/kaboom-db/kaboom"><img src="https://github.com/kaboom-db/kaboom/blob/master/brand/KABOOM.png?raw=true" width="500px" height="auto" /></a></p>
   <h3 align="center"> Currently working on: <br>💥 <a href="https://github.com/kaboom-db/kaboom">Kaboom</a> 💥</h3>
 </pre>
+
+`If you like my work, feel free to support me by donating!`
+
+<a href="https://www.buymeacoffee.com/crxssed" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
