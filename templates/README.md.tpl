@@ -26,8 +26,8 @@ socials/
 </pre>
 
 <pre>
-  <p align="center"><a href="https://github.com/kaboom-db/kaboom"><img src="https://github.com/kaboom-db/kaboom/blob/master/brand/KABOOM.png?raw=true" width="500px" height="auto" /></a></p>
-  <h3 align="center"> Currently working on: <br>💥 <a href="https://github.com/kaboom-db/kaboom">Kaboom</a> 💥</h3>
+  <p align="center"><a href="https://tankobon.fly.dev"><img src="https://github.com/crxssed7/tankobon/raw/master/brand/header.png?raw=true" width="500px" height="auto" /></a></p>
+  <h3 align="center"> Featured project: <br>📖 <a href="https://tankobon.fly.dev">Tankobon</a> 📖</h3>
 </pre>
 
 `If you like my work, feel free to support me by donating!`
