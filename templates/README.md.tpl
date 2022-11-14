@@ -7,15 +7,17 @@
 
 <pre>
 my-skills-and-tools/ 
-┗━━━━━━ <a href="https://crxssed7.github.io/assets/img/Tanveer%20CV.pdf">tanveer-cv.pdf</a>
+┗━━━━━━ <a href="https://crxssed.dev/assets/img/Tanveer%20CV.pdf">tanveer-cv.pdf</a>
 ┗━━━━━━ technologies/ 
 ┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">csharp</a> 
 ┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">dotnet</a> 
 ┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">python</a> 
-┗━━━━━━ learning/ 
 ┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">django</a> 
 ┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort=">javascript</a> 
-┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=shell&amp;sort=">arch-linux</a> 
+┗━━━━━━ learning/ 
+┃       ┗━━━━━━ <a href="https://github.com/crxssed7">ruby</a> 
+┃       ┗━━━━━━ <a href="https://github.com/crxssed7">rails</a> 
+┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=shell&amp;sort=">linux</a> 
 ┗━━━━━━ productivity/ 
 ┃       ┗━━━━━━ <a href="https://code.visualstudio.com">vscode</a> 
 ┃       ┗━━━━━━ <a href="https://trello.com">trello</a> 
