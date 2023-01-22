@@ -5,27 +5,8 @@
   <br>
 </div>
 
-<pre>
-my-skills-and-tools/ 
-┗━━━━━━ <a href="https://crxssed.dev/assets/img/Tanveer%20CV.pdf">tanveer-cv.pdf</a>
-┗━━━━━━ technologies/ 
-┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">csharp</a> 
-┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=c#&amp;sort=">dotnet</a> 
-┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">python</a> 
-┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=python&amp;sort=">django</a> 
-┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=javascript&amp;sort=">javascript</a> 
-┗━━━━━━ learning/ 
-┃       ┗━━━━━━ <a href="https://github.com/crxssed7">ruby</a> 
-┃       ┗━━━━━━ <a href="https://github.com/crxssed7">rails</a> 
-┃       ┗━━━━━━ <a href="https://github.com/crxssed7?tab=repositories&amp;q=&amp;type=&amp;language=shell&amp;sort=">linux</a> 
-┗━━━━━━ productivity/ 
-┃       ┗━━━━━━ <a href="https://code.visualstudio.com">vscode</a> 
-┃       ┗━━━━━━ <a href="https://trello.com">trello</a> 
-┃       ┗━━━━━━ <a href="https://www.postman.com">postman</a> 
-┃       ┗━━━━━━ <a href="https://insomnia.rest">insomnia</a> 
-socials/ 
-┗━━━━━━ <a href="https://trakt.tv/users/crxssed">trakt</a>
-</pre>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <pre>
   <p align="center"><a href="https://tankobon.fly.dev"><img src="https://github.com/crxssed7/tankobon/raw/master/brand/header.png?raw=true" width="500px" height="auto" /></a></p>
