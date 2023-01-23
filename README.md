@@ -7,6 +7,20 @@
 
 
 
+```text
+From: 22 January 2023 - To: 22 January 2023
+
+Total Time: 2 hrs 52 mins
+
+HTML         1 hr 42 mins    ██████████████▓░░░░░░░░░░   59.10 %
+YAML         26 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.40 %
+CSS          17 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
+Python       13 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+JavaScript   12 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
+```
+
+
 
 <pre>
   <p align="center"><a href="https://tankobon.fly.dev"><img src="https://github.com/crxssed7/tankobon/raw/master/brand/header.png?raw=true" width="500px" height="auto" /></a></p>
