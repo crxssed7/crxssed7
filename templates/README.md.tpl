@@ -8,15 +8,16 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 January 2023 - To: 29 January 2023
+From: 22 January 2023 - To: 30 January 2023
 
-Total Time: 15 hrs 8 mins
+Total Time: 20 hrs 38 mins
 
-HTML         5 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   36.55 %
-Python       1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.07 %
-ERB          1 hr 58 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 %
-CSS          1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.94 %
-Other        51 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.70 %
+HTML         5 hrs 32 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.81 %
+Ruby         4 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.77 %
+ERB          3 hrs 21 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.30 %
+Python       1 hr 58 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+CSS          1 hr 3 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.09 %
+Other        51 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
