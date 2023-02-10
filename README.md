@@ -8,16 +8,16 @@
 
 
 ```text
-From: 22 January 2023 - To: 07 February 2023
+From: 22 January 2023 - To: 08 February 2023
 
-Total Time: 59 hrs 22 mins
+Total Time: 63 hrs 39 mins
 
-Ruby         20 hrs 7 mins   ████████▒░░░░░░░░░░░░░░░░   33.90 %
-ERB          9 hrs 7 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.36 %
-HTML         7 hrs 22 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.41 %
-Go           6 hrs 45 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.40 %
-Python       5 hrs 53 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.91 %
-SCSS         2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 %
+Ruby         20 hrs 25 mins  ████████░░░░░░░░░░░░░░░░░   32.09 %
+ERB          9 hrs 46 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Go           9 hrs 7 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.32 %
+HTML         7 hrs 28 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Python       5 hrs 58 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
+SCSS         2 hrs 10 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.41 %
 ```
 
 
