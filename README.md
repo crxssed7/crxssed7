@@ -8,7 +8,7 @@
 
 
 ```text
-From: 22 January 2023 - To: 10 February 2023
+From: 22 January 2023 - To: 11 February 2023
 
 Total Time: 76 hrs 35 mins
 
