@@ -5,23 +5,6 @@
   <br>
 </div>
 
-
-
-```text
-From: 22 January 2023 - To: 12 February 2023
-
-Total Time: 83 hrs 1 min
-
-Ruby         23 hrs 3 mins   ███████░░░░░░░░░░░░░░░░░░   27.78 %
-HTML         12 hrs 49 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.44 %
-Go           11 hrs 4 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.34 %
-ERB          10 hrs 12 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-Python       9 hrs 27 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
-JavaScript   2 hrs 31 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
-```
-
-
-
 <pre>
   <p align="center"><a href="https://tankobon.fly.dev"><img src="https://github.com/crxssed7/tankobon/raw/master/brand/header.png?raw=true" width="500px" height="auto" /></a></p>
   <h3 align="center"> Featured project: <br>📖 <a href="https://tankobon.fly.dev">Tankobon</a> 📖</h3>
