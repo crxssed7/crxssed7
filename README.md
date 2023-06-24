@@ -8,8 +8,8 @@
 <pre>
   Ongoing projects:
 
-    · Tankōbon (Django)</li>
-    · Kaboom (Ruby on Rails)</li>
+    · <a href="https://tankobon.net">Tankōbon</a> (Django)
+    · <a href="https://github.com/kaboom-db/kaboom">Kaboom</a> (Ruby on Rails)
 
   Open source contributions:
 
