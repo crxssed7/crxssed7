@@ -14,5 +14,5 @@
   Open source contributions:
 
     · Ileriayo/markdown-badges
-      (#83)
+      (<a href="https://github.com/Ileriayo/markdown-badges/pull/83">#83</a>)
 </pre>
