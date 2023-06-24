@@ -14,5 +14,5 @@
   Open source contributions:
 
     · Ileriayo/markdown-badges
-    (#83)
+      (#83)
 </pre>
