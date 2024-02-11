@@ -14,7 +14,7 @@
   Open source contributions:
 
     · lotusgate/otraku
-      (<a href="https://github.com/lotusgate/otraku/pull/86">#86</a>)
+      (<a href="https://github.com/lotusgate/otraku/pull/86">#86</a>, <a href="https://github.com/lotusprey/otraku/pull/133">#133</a>)
     · Ileriayo/markdown-badges
       (<a href="https://github.com/Ileriayo/markdown-badges/pull/83">#83</a>)
 </pre>
