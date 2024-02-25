@@ -13,6 +13,8 @@
 
   Open source contributions:
 
+    · xgi/houdoku
+      (<a href="https://github.com/xgi/houdoku/pull/335">#335</a>)
     · lotusgate/otraku
       (<a href="https://github.com/lotusgate/otraku/pull/86">#86</a>, <a href="https://github.com/lotusprey/otraku/pull/133">#133</a>)
     · Ileriayo/markdown-badges
