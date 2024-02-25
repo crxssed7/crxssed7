@@ -8,8 +8,7 @@
 <pre>
   Ongoing projects:
 
-    · <a href="https://tankobon.net">Tankōbon</a> (Django)
-    · <a href="https://github.com/kaboom-db/kaboom">Kaboom</a> (Ruby on Rails)
+    · <a href="https://kaboom.rocks/">Kaboom</a> (Ruby on Rails, <a href="https://github.com/kaboom-db/kaboom">source</a>)
 
   Open source contributions:
 
@@ -19,4 +18,11 @@
       (<a href="https://github.com/lotusgate/otraku/pull/86">#86</a>, <a href="https://github.com/lotusprey/otraku/pull/133">#133</a>)
     · Ileriayo/markdown-badges
       (<a href="https://github.com/Ileriayo/markdown-badges/pull/83">#83</a>)
+
+  Past projects:
+
+    · <a href="https://tankobon.net/">Tankōbon</a> (Django, <a href="https://github.com/crxssed7/tankobon">source</a>)
+    · <a href="https://github.com/crxssed7/tankobon_mobile/">Tankōbon Mobile</a> (Flutter)
+    · <a href="https://crxssed7.itch.io/telepeeps/">TelePeeps</a> (C#, WinForms)
+    <a href="https://github.com/crxssed7?tab=repositories">plus more...</a>
 </pre>
