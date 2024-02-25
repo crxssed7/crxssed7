@@ -23,6 +23,9 @@
 
     · <a href="https://tankobon.net/">Tankōbon</a> (Django, <a href="https://github.com/crxssed7/tankobon">source</a>)
     · <a href="https://github.com/crxssed7/tankobon_mobile/">Tankōbon Mobile</a> (Flutter)
+    · <a href="https://github.com/kitric/passguard/">PassGuard</a> (C#, WinForms)
+    · <a href="https://github.com/kitric/comicpeeps/">ComicPeeps</a> (C#, WinForms)
     · <a href="https://crxssed7.itch.io/telepeeps/">TelePeeps</a> (C#, WinForms)
+
     <a href="https://github.com/crxssed7?tab=repositories">plus more...</a>
 </pre>
