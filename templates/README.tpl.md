@@ -12,6 +12,8 @@
 
   Open source contributions:
 
+    · xgi/tiyo
+      (<a href="https://github.com/xgi/tiyo/pull/7">#7</a>)
     · xgi/houdoku
       (<a href="https://github.com/xgi/houdoku/pull/335">#335</a>)
     · lotusgate/otraku
