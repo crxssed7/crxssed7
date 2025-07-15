@@ -1,7 +1,7 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/Nx0rz3jtxtEre/giphy.gif" width="auto" height="100px">
   <h3>I'm Tanveer</h3>
-  <p>22 year old <del>software</del> bug developer.</p>
+  <p>23 year old <del>software</del> bug developer.</p>
   <hr>
 </div>
 
