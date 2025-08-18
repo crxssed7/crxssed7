@@ -20,6 +20,8 @@
       (<a href="https://github.com/xgi/houdoku/pull/335">#335</a>)
     · lotusgate/otraku
       (<a href="https://github.com/lotusgate/otraku/pull/86">#86</a>, <a href="https://github.com/lotusprey/otraku/pull/133">#133</a>)
+    · mhdzumair/MediaFusion
+      (<a href="https://github.com/mhdzumair/MediaFusion/pull/540">#540</a>)
     · Ileriayo/markdown-badges
       (<a href="https://github.com/Ileriayo/markdown-badges/pull/83">#83</a>)
 
