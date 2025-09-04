@@ -8,6 +8,7 @@
 <pre>
   Ongoing projects:
 
+    · <a href="https://github.com/stakkd-tv/stakkd">Stakkd</a> (Ruby on Rails)
     · <a href="https://kaboom.rocks/">Kaboom</a> (Ruby on Rails, <a href="https://github.com/kaboom-db/kaboom">source</a>)
     · <a href="https://github.com/crxssed7/cosmos">cosmos</a> (Kotlin, Compose)
     · <a href="https://github.com/tsuki-reader">Tsuki</a> (Go, Typescript, React)
